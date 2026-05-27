@@ -1,2 +1,3 @@
-# SiPKATI
-Aplikasi Web Sistem Informasi PKA Jurusan Teknologi Informatika
+#SiPKATI to SIM-TA
+
+Aplikasi Web Sistem Informasi Manajemen Tugas Akhir (SIM-TA) Jurusan Teknologi Informatika
